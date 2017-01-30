@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\geronimo\programacao\estudos_opencl\EstudoOpenCL\DeviceEnnumeration\dummy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D54CF8A7-35A7-31EA-BF1E-97CD0AB9F4F5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
